@@ -1,7 +1,6 @@
 Address Management App (Adres Yönetim Uygulaması)
 Bu proje, bir .NET Minimal API backend'i ve React (Vite/Material UI) frontend'inden oluşan full-stack bir Adres Yönetim Uygulamasıdır.
 
-Projeye ait GitHub linki: https://github.com/mykarli/Address-Management-App
 
 🛠️ Teknolojiler
 Kategori
@@ -77,3 +76,4 @@ Kullanıcı Arayüzü (UI): Proje, modern ve yüksek kaliteli bir kullanıcı de
 ├── address-app-client/         # React Frontend Projesi
 │   └── src/App.jsx             # Tüm UI ve Frontend Logic
 └── README.md
+
